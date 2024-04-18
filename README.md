@@ -12,8 +12,9 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example ste
+```bash
+python train_imagenet.py --ngpu 1 --workers 20 --arch resnet --depth 50 --epochs 100 --batch-size 32 --lr 0.1 --att-type CBAM --prefix RESNET50_IMAGENET_CBAM
+```
 
 
 
