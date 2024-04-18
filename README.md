@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CUTEPKQ/cbam_attention-for-stanford_dogs">
-    <img src="images/Stanfor_Dogs.png" alt="Logo" width="80" height="80">
+    <img src="images/Stanfor_Dogs.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">CBAM attention for Stanfor_Dogs classfication </h3>
