@@ -28,7 +28,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
